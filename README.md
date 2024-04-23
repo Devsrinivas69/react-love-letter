@@ -1,7 +1,7 @@
 # Propose your GF/BF using React Love Letter
 
-Developed by [Dodagatta Nihar](https://instagram.com/niihaaarrrr)
-Website Link: [Click Here](https://react-love-letter.vercel.app)
+Developed by insta: _.srinivass_69
+
 
 ### How to use this?
 Just fork the repository and install dependencies and run 'npm start' and done :)
